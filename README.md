@@ -76,26 +76,6 @@ La automatización permitió supervisar y controlar el proceso de tratamiento me
 - Delta ISPSoft
 - Delta DOPSoft
 
----
-
-# 📂 Estructura del proyecto
-
-text
-AUTOMATIZACION-PLC-QUERETARO
-│
-├── PLC
-│   ├── Programa ISPSoft
-│
-├── HMI
-│   ├── Proyecto DOPSoft
-│
-├── Images
-│   ├── HMI
-│   ├── Ladder
-│   ├── PLC
-│
-└── README.md
-
 
 ---
 
