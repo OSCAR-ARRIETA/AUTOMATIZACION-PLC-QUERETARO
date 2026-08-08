@@ -154,8 +154,6 @@ Especializado en:
 
 ---
 
-<div align="center">
 
-### ⭐ Si este proyecto te resulta interesante, no olvides dejar una estrella al repositorio.
 
 </div>
