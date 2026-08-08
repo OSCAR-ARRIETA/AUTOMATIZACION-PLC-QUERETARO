@@ -140,7 +140,7 @@ AUTOMATIZACION-PLC-QUERETARO
 
 <p align="center">
 
-<img src="queretaro/plc-instaldo.jpeg" width="30%">
+<img src="queretaro/plc-instalado.jpeg" width="30%">
 
 <img src="queretaro/interfaz-plc.jpg" width="30%">
 
