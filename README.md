@@ -130,15 +130,13 @@ AUTOMATIZACION-PLC-QUERETARO
 
 # 📸 Galería
 
-> Agrega aquí capturas de:
+<p align="center">
 
-- Pantalla principal de la HMI.
-- Programa Ladder en ISPSoft.
-- Pantalla de monitoreo.
-- Control de bombas.
-- Alarmas.
-- Medidores de flujo.
+<img src="queretaro/tablero-control.jpeg" width="40%">
 
+<img src="queretaro/interior-tablero.jpeg" width="40%">
+
+</p>
 ---
 
 # 👨‍💻 Autor
