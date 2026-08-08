@@ -132,11 +132,20 @@ AUTOMATIZACION-PLC-QUERETARO
 
 <p align="center">
 
-<img src="queretaro/tablero-control.jpeg" width="40%">
+<img src="queretaro/tablero-control.jpeg" width="30%">
 
-<img src="queretaro/interior-tablero.jpeg" width="40%">
+<img src="queretaro/interior-tablero.jpeg" width="30%">
 
 </p>
+
+<p align="center">
+
+<img src="queretaro/plc-instaldo.jpeg" width="30%">
+
+<img src="queretaro/.jpeg" width="30%">
+
+</p>
+
 ---
 
 # 👨‍💻 Autor
