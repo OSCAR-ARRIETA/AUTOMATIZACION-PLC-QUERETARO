@@ -142,9 +142,18 @@ AUTOMATIZACION-PLC-QUERETARO
 
 <img src="queretaro/plc-instaldo.jpeg" width="30%">
 
-<img src="queretaro/.jpeg" width="30%">
+<img src="queretaro/interfaz-plc.jpg" width="30%">
 
 </p>
+
+<p align="center">
+
+<img src="queretaro/medidor-plc.jpeg" width="30%">
+
+<img src="queretaro/bomba-plc.jpeg" width="30%">
+
+</p>
+
 
 ---
 
