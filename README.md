@@ -110,8 +110,8 @@ La automatización permitió supervisar y controlar el proceso de tratamiento me
 
 # 📸 Galería
 
+### Tablero control con PLC y HMI instalados.
 <p align="center">
-
 <img src="queretaro/tablero-control.jpeg" width="30%">
 
 <img src="queretaro/interior-tablero.jpeg" width="30%">
