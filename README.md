@@ -118,6 +118,8 @@ La automatización permitió supervisar y controlar el proceso de tratamiento me
 
 </p>
 
+### PLC Delta instalado y conectado al tablero. 
+
 <p align="center">
 
 <img src="queretaro/plc-instalado.jpeg" width="30%">
@@ -125,6 +127,8 @@ La automatización permitió supervisar y controlar el proceso de tratamiento me
 <img src="queretaro/interfaz-plc.jpg" width="30%">
 
 </p>
+
+### Interfaz del hmi.
 
 <p align="center">
 
